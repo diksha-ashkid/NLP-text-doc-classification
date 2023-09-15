@@ -2,7 +2,7 @@ import PyPDF2
 import docx
 import yake
 import os
-
+#multiple docs
 def extract_text_from_document(file_path):
     file_extension = os.path.splitext(file_path)[-1].lower()
     text = ""
