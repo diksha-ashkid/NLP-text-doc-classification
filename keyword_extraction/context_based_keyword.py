@@ -2,7 +2,7 @@ import PyPDF2
 import docx
 import yake
 import os
-#multiple docs
+
 def extract_text_from_document(file_path):
     file_extension = os.path.splitext(file_path)[-1].lower()
     text = ""
@@ -33,10 +33,20 @@ def extract_text_from_document(file_path):
     return text
 
 # Usage example:
-file_path = r"doc_to_read.pdf"
+file_path = r"D:\Personal\diksha\7 SEM\Final Year Project\Marketing Automation (1).pdf"
 document_text = extract_text_from_document(file_path)
-
 kw_extractor = yake.KeywordExtractor()
+
+
+deduplication_thresold = 0.3
+deduplication_algo = 'seqm'
+windowSize = 1
+numOfKeywords = 7
+# max_ngram_size = 3
+kw_extractor = yake.KeywordExtractor(dedupLim=deduplication_thresold, dedupFunc=deduplication_algo, windowsSize=windowSize, top=numOfKeywords)
+
+
+
 keywords = kw_extractor.extract_keywords(document_text)
 for kw in keywords:
     print(kw)
