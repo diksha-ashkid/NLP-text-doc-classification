@@ -1,229 +1,228 @@
-
-description,category
-"for i in range(10):\n    print(i)\n\n# This Python code prints numbers from 0 to 9.",Python
-"int main() {\n    printf(""Hello, World!"");\n    return 0;\n}\n\n// This is a C program that prints 'Hello, World!'",C
-"puts 'Hello, Ruby!'\n\n# This Ruby code prints 'Hello, Ruby!'",Ruby
-"public static void main(String[] args) {\n    System.out.println(""Hello, Java!"");\n}\n\n// Java program to print 'Hello, Java!'",Java
-"console.log(""Hello, JavaScript!"");\n\n// JavaScript code to print 'Hello, JavaScript!'",JavaScript
-"echo 'Hello, PHP!';\n\n// PHP code to echo 'Hello, PHP!'",PHP
-"SELECT * FROM users;\n\n-- SQL query to select all records from 'users' table",SQL
-"var message = 'Hello, TypeScript!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, TypeScript!'",TypeScript
-"func sayHello() {\n    print(""Hello, Swift!"")\n}\n\n// Swift code to print 'Hello, Swift!'",Swift
-"<html>\n  <body>\n    <h1>Hello, HTML!</h1>\n  </body>\n</html>\n\n<!-- HTML code to display 'Hello, HTML!' -->",HTML
-"puts 'Hello, Kotlin!'\n\n# This Kotlin code prints 'Hello, Kotlin!'",Kotlin
-"import 'dart:io';\nvoid main() {\n    print('Hello, Dart!');\n}\n\n// Dart code to print 'Hello, Dart!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, C++!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, C++!'",C++
-"body {\n    font-family: Arial, sans-serif;\n    font-size: 16px;\n}\n\n/* CSS code for setting font and size */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Pandas!')",Python
-"public class Hello {\n    public static void main(String[] args) {\n        System.out.println(""Hello, Java!"");\n    }\n}\n\n// Java program to print 'Hello, Java!'",Java
-"console.log(""Hello, Node.js!"");\n\n// JavaScript code to print 'Hello, Node.js!'",JavaScript
-"echo 'Hello, World!';\n\n# This PHP code echoes 'Hello, World!'",PHP
-"SELECT name, age FROM users;\n\n-- SQL query to select 'name' and 'age' from 'users' table",SQL
-"var message = 'Hello, React Native!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, React Native!'",TypeScript
-"func sayHello() {\n    print(""Hello, SwiftUI!"")\n}\n\n// Swift code to print 'Hello, SwiftUI!'",Swift
-"<html>\n  <body>\n    <h1>Hello, Web Development!</h1>\n  </body>\n</html>\n\n<!-- HTML code for a web development greeting -->",HTML
-"puts 'Hello, Android!'\n\n# This Kotlin code prints 'Hello, Android!'",Kotlin
-"import 'dart:io';\nvoid main() {\n    print('Hello, Flutter!');\n}\n\n// Dart code to print 'Hello, Flutter!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, World!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, World!'",C++
-"body {\n    background-color: #3498db;\n    color: white;\n}\n\n/* CSS code for styling the body */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Data Analysis!')",Python
-"public class Calculator {\n    public static void main(String[] args) {\n        int a = 5, b = 3;\n        System.out.println(""Sum: "" + (a + b));\n    }\n}\n\n// Java program to calculate the sum of two numbers",Java
-"console.log(""Hello, React!"");\n\n// JavaScript code to print 'Hello, React!'",JavaScript
-"echo 'Hello, Database!';\n\n# This PHP code echoes 'Hello, Database!'",PHP
-"SELECT product_name, price FROM products;\n\n-- SQL query to select 'product_name' and 'price' from 'products' table",SQL
-"var message = 'Hello, Vue.js!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, Vue.js!'",TypeScript
-"func sayHello() {\n    print(""Hello, Xcode!"")\n}\n\n// Swift code to print 'Hello, Xcode!'",Swift
-"<html>\n  <body>\n    <h1>Hello, CSS Styling!</h1>\n  </body>\n</html>\n\n<!-- HTML code for styling with CSS -->",HTML
-"puts 'Hello, Raspberry Pi!'\n\n# This Ruby code prints 'Hello, Raspberry Pi!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, IoT!');\n}\n\n// Dart code to print 'Hello, IoT!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, C++ Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, C++ Programming!'",C++
-"body {\n    margin: 0;\n    padding: 0;\n}\n\n/* CSS code for resetting margins and paddings */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Data Science!')",Python
-"public class Rectangle {\n    int length, width;\n    public int calculateArea() {\n        return length * width;\n    }\n}\n\n// Java class to calculate the area of a rectangle",Java
-"console.log(""Hello, Express.js!"");\n\n// JavaScript code to print 'Hello, Express.js!'",JavaScript
-"echo 'Hello, Laravel!';\n\n# This PHP code echoes 'Hello, Laravel!'",PHP
-"SELECT city, population FROM cities;\n\n-- SQL query to select 'city' and 'population' from 'cities' table",SQL
-"var message = 'Hello, Angular!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, Angular!'",TypeScript
-"func sayHello() {\n    print(""Hello, watchOS!"")\n}\n\n// Swift code to print 'Hello, watchOS!'",Swift
-"<html>\n  <body>\n    <h1>Hello, Responsive Design!</h1>\n  </body>\n</html>\n\n<!-- HTML code for responsive web design -->",HTML
-"puts 'Hello, Robotics!'\n\n# This Ruby code prints 'Hello, Robotics!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, Robotics World!');\n}\n\n// Dart code to print 'Hello, Robotics World!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, Robotics Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, Robotics Programming!'",C++
-"body {\n    border: 1px solid #ddd;\n}\n\n/* CSS code for adding a border to elements */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Machine Learning!')",Python
-"public class Circle {\n    double radius;\n    public double calculateArea() {\n        return Math.PI * radius * radius;\n    }\n}\n\n// Java class to calculate the area of a circle",Java
-"console.log(""Hello, Redux!"");\n\n// JavaScript code to print 'Hello, Redux!'",JavaScript
-"echo 'Hello, Symfony!';\n\n# This PHP code echoes 'Hello, Symfony!'",PHP
-"SELECT book_title, author FROM books;\n\n-- SQL query to select 'book_title' and 'author' from 'books' table",SQL
-"var message = 'Hello, RxJS!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, RxJS!'",TypeScript
-"func sayHello() {\n    print(""Hello, ARKit!"")\n}\n\n// Swift code to print 'Hello, ARKit!'",Swift
-"<html>\n  <body>\n    <h1>Hello, Flexbox Layout!</h1>\n  </body>\n</html>\n\n<!-- HTML code for flexbox layout -->",HTML
-"puts 'Hello, Blockchain!'\n\n# This Ruby code prints 'Hello, Blockchain!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, Blockchain World!');\n}\n\n// Dart code to print 'Hello, Blockchain World!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, Blockchain Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, Blockchain Programming!'",C++
-"body {\n    text-align: center;\n}\n\n/* CSS code for centering text */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Deep Learning!')",Python
-"public class Triangle {\n    double base, height;\n    public double calculateArea() {\n        return 0.5 * base * height;\n    }\n}\n\n// Java class to calculate the area of a triangle",Java
-"console.log(""Hello, Vue.js 3!"");\n\n// JavaScript code to print 'Hello, Vue.js 3!'",JavaScript
-"echo 'Hello, WordPress!';\n\n# This PHP code echoes 'Hello, WordPress!'",PHP
-"SELECT song_title, artist FROM songs;\n\n-- SQL query to select 'song_title' and 'artist' from 'songs' table",SQL
-"var message = 'Hello, GraphQL!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, GraphQL!'",TypeScript
-"func sayHello() {\n    print(""Hello, SceneKit!"")\n}\n\n// Swift code to print 'Hello, SceneKit!'",Swift
-"<html>\n  <body>\n    <h1>Hello, CSS Grid Layout!</h1>\n  </body>\n</html>\n\n<!-- HTML code for CSS grid layout -->",HTML
-"puts 'Hello, Game Development!'\n\n# This Ruby code prints 'Hello, Game Development!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, Game Dev World!');\n}\n\n// Dart code to print 'Hello, Game Dev World!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, Game Dev Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, Game Dev Programming!'",C++
-"body {\n    background-image: url('background.jpg');\n}\n\n/* CSS code for setting a background image */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Natural Language Processing!')",Python
-"public class Square {\n    double side;\n    public double calculateArea() {\n        return side * side;\n    }\n}\n\n// Java class to calculate the area of a square",Java
-"console.log(""Hello, Electron!"");\n\n// JavaScript code to print 'Hello, Electron!'",JavaScript
-"echo 'Hello, Joomla!';\n\n# This PHP code echoes 'Hello, Joomla!'",PHP
-"SELECT product_name, category FROM products;\n\n-- SQL query to select 'product_name' and 'category' from 'products' table",SQL
-"var message = 'Hello, TensorFlow!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, TensorFlow!'",TypeScript
-"func sayHello() {\n    print(""Hello, Metal!"")\n}\n\n// Swift code to print 'Hello, Metal!'",Swift
-"<html>\n  <body>\n    <h1>Hello, Web Animation!</h1>\n  </body>\n</html>\n\n<!-- HTML code for web animation -->",HTML
-"puts 'Hello, Cybersecurity!'\n\n# This Ruby code prints 'Hello, Cybersecurity!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, Cybersecurity World!');\n}\n\n// Dart code to print 'Hello, Cybersecurity World!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, Cybersecurity Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, Cybersecurity Programming!'",C++
-"body {\n    color: #333;\n}\n\n/* CSS code for setting text color */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Artificial Intelligence!')",Python
-"public class Employee {\n    String name;\n    int id;\n    public void displayInfo() {\n        System.out.println('Name: ' + name);\n    }\n}\n\n// Java class to display employee information",Java
-"console.log(""Hello, Three.js!"");\n\n// JavaScript code to print 'Hello, Three.js!'",JavaScript
-"echo 'Hello, Magento!';\n\n# This PHP code echoes 'Hello, Magento!'",PHP
-"SELECT movie_title, director FROM movies;\n\n-- SQL query to select 'movie_title' and 'director' from 'movies' table",SQL
-"var message = 'Hello, Rust!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, Rust!'",TypeScript
-"func sayHello() {\n    print(""Hello, OpenCV!"")\n}\n\n// Swift code to print 'Hello, OpenCV!'",Swift
-"<html>\n  <body>\n    <h1>Hello, CSS Transitions!</h1>\n  </body>\n</html>\n\n<!-- HTML code for CSS transitions -->",HTML
-"puts 'Hello, Cloud Computing!'\n\n# This Ruby code prints 'Hello, Cloud Computing!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, Cloud Computing World!');\n}\n\n// Dart code to print 'Hello, Cloud Computing World!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, Cloud Computing Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, Cloud Computing Programming!'",C++
-"body {\n    font-weight: bold;\n}\n\n/* CSS code for setting font weight */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Cloud Services!')",Python
-"public class Car {\n    String make, model;\n    public void start() {\n        System.out.println('The car is starting.');\n    }\n}\n\n// Java class for starting a car",Java
-"console.log(""Hello, Serverless!"");\n\n// JavaScript code to print 'Hello, Serverless!'",JavaScript
-"echo 'Hello, Docker!';\n\n# This PHP code echoes 'Hello, Docker!'",PHP
-"SELECT city_name, population FROM cities;\n\n-- SQL query to select 'city_name' and 'population' from 'cities' table",SQL
-"var message = 'Hello, Heroku!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, Heroku!'",TypeScript
-"func sayHello() {\n    print(""Hello, CloudFormation!"")\n}\n\n// Swift code to print 'Hello, CloudFormation!'",Swift
-"<html>\n  <body>\n    <h1>Hello, CSS Animations!</h1>\n  </body>\n</html>\n\n<!-- HTML code for CSS animations -->",HTML
-"puts 'Hello, DevOps!'\n\n# This Ruby code prints 'Hello, DevOps!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, DevOps World!');\n}\n\n// Dart code to print 'Hello, DevOps World!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, DevOps Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, DevOps Programming!'",C++
-"body {\n    background-color: #f2f2f2;\n}\n\n/* CSS code for setting background color */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Continuous Integration!')",Python
-"public class Dog {\n    String name;\n    public void bark() {\n        System.out.println('Woof! Woof!');\n    }\n}\n\n// Java class for a barking dog",Java
-"console.log(""Hello, Jenkins!"");\n\n// JavaScript code to print 'Hello, Jenkins!'",JavaScript
-"echo 'Hello, Travis CI!';\n\n# This PHP code echoes 'Hello, Travis CI!'",PHP
-"SELECT product_name, quantity FROM inventory;\n\n-- SQL query to select 'product_name' and 'quantity' from 'inventory' table",SQL
-"var message = 'Hello, CircleCI!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, CircleCI!'",TypeScript
-"func sayHello() {\n    print(""Hello, CircleCI!"")\n}\n\n// Swift code to print 'Hello, CircleCI!'",Swift
-"<html>\n  <body>\n    <h1>Hello, CSS Flexbox!</h1>\n  </body>\n</html>\n\n<!-- HTML code for CSS flexbox layout -->",HTML
-"puts 'Hello, Virtual Reality!'\n\n# This Ruby code prints 'Hello, Virtual Reality!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, Virtual Reality World!');\n}\n\n// Dart code to print 'Hello, Virtual Reality World!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, Virtual Reality Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, Virtual Reality Programming!'",C++
-"body {\n    line-height: 1.6;\n}\n\n/* CSS code for setting line height */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Augmented Reality!')",Python
-"public class Cat {\n    String name;\n    public void meow() {\n        System.out.println('Meow!');\n    }\n}\n\n// Java class for a meowing cat",Java
-"console.log(""Hello, Augmented Reality!"");\n\n// JavaScript code to print 'Hello, Augmented Reality!'",JavaScript
-"echo 'Hello, Augmented Reality!';\n\n# This PHP code echoes 'Hello, Augmented Reality!'",PHP
-"SELECT game_title, genre FROM games;\n\n-- SQL query to select 'game_title' and 'genre' from 'games' table",SQL
-"var message = 'Hello, ARCore!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, ARCore!'",TypeScript
-"func sayHello() {\n    print(""Hello, ARKit 2!"")\n}\n\n// Swift code to print 'Hello, ARKit 2!'",Swift
-"<html>\n  <body>\n    <h1>Hello, CSS Transforms!</h1>\n  </body>\n</html>\n\n<!-- HTML code for CSS transforms -->",HTML
-"puts 'Hello, Natural Language Processing!'\n\n# This Ruby code prints 'Hello, Natural Language Processing!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, Natural Language Processing World!');\n}\n\n// Dart code to print 'Hello, Natural Language Processing World!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, NLP Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, NLP Programming!'",C++
-"body {\n    text-decoration: underline;\n}\n\n/* CSS code for setting text decoration */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Computer Vision!')",Python
-"public class Bird {\n    String species;\n    public void chirp() {\n        System.out.println('Chirp! Chirp!');\n    }\n}\n\n// Java class for a chirping bird",Java
-"console.log(""Hello, Computer Vision!"");\n\n// JavaScript code to print 'Hello, Computer Vision!'",JavaScript
-"echo 'Hello, Image Processing!';\n\n# This PHP code echoes 'Hello, Image Processing!'",PHP
-"SELECT image_name, width, height FROM images;\n\n-- SQL query to select image information from 'images' table",SQL
-"var message = 'Hello, OpenCV!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, OpenCV!'",TypeScript
-"func sayHello() {\n    print(""Hello, Image Analysis!"")\n}\n\n// Swift code to print 'Hello, Image Analysis!'",Swift
-"<html>\n  <body>\n    <h1>Hello, CSS Gradients!</h1>\n  </body>\n</html>\n\n<!-- HTML code for CSS gradients -->",HTML
-"puts 'Hello, Big Data!'\n\n# This Ruby code prints 'Hello, Big Data!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, Big Data World!');\n}\n\n// Dart code to print 'Hello, Big Data World!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, Big Data Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, Big Data Programming!'",C++
-"body {\n    background-image: linear-gradient(to bottom, #ffcc00, #ff6600);\n}\n\n/* CSS code for linear gradient background */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Internet of Things!')",Python
-"public class Sensor {\n    String type;\n    public void measure() {\n        System.out.println('Measuring...');\n    }\n}\n\n// Java class for measuring sensors",Java
-"console.log(""Hello, IoT!"");\n\n// JavaScript code to print 'Hello, IoT!'",JavaScript
-"echo 'Hello, IoT!';\n\n# This PHP code echoes 'Hello, IoT!'",PHP
-"SELECT sensor_name, value FROM sensor_data;\n\n-- SQL query to select 'sensor_name' and 'value' from 'sensor_data' table",SQL
-"var message = 'Hello, MQTT!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, MQTT!'",TypeScript
-"func sayHello() {\n    print(""Hello, Home Automation!"")\n}\n\n// Swift code to print 'Hello, Home Automation!'",Swift
-"<html>\n  <body>\n    <h1>Hello, CSS Shadows!</h1>\n  </body>\n</html>\n\n<!-- HTML code for CSS shadows -->",HTML
-"puts 'Hello, Robotics Process Automation!'\n\n# This Ruby code prints 'Hello, RPA!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, RPA World!');\n}\n\n// Dart code to print 'Hello, RPA World!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, RPA Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, RPA Programming!'",C++
-"body {\n    box-shadow: 5px 5px 10px #888888;\n}\n\n/* CSS code for box shadow */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Cloud Security!')",Python
-"public class Firewall {\n    String name;\n    public void protect() {\n        System.out.println('Firewall is protecting.');\n    }\n}\n\n// Java class for a firewall",Java
-"console.log(""Hello, Cloud Security!"");\n\n// JavaScript code to print 'Hello, Cloud Security!'",JavaScript
-"echo 'Hello, Cybersecurity!';\n\n# This PHP code echoes 'Hello, Cybersecurity!'",PHP
-"SELECT vulnerability_name, severity FROM vulnerabilities;\n\n-- SQL query to select 'vulnerability_name' and 'severity' from 'vulnerabilities' table",SQL
-"var message = 'Hello, Security Analyst!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, Security Analyst!'",TypeScript
-"func sayHello() {\n    print(""Hello, Penetration Testing!"")\n}\n\n// Swift code to print 'Hello, Penetration Testing!'",Swift
-"<html>\n  <body>\n    <h1>Hello, CSS Variables!</h1>\n  </body>\n</html>\n\n<!-- HTML code for CSS variables -->",HTML
-"puts 'Hello, Cryptography!'\n\n# This Ruby code prints 'Hello, Cryptography!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, Cryptography World!');\n}\n\n// Dart code to print 'Hello, Cryptography World!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, Cryptography Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, Cryptography Programming!'",C++
-"body {\n    font-family: 'Roboto', sans-serif;\n}\n\n/* CSS code for setting font family */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Cyber Threat Intelligence!')",Python
-"public class Virus {\n    String name;\n    public void spread() {\n        System.out.println('Virus is spreading.');\n    }\n}\n\n// Java class for a spreading virus",Java
-"console.log(""Hello, Cyber Threat Intelligence!"");\n\n// JavaScript code to print 'Hello, Cyber Threat Intelligence!'",JavaScript
-"echo 'Hello, Malware Analysis!';\n\n# This PHP code echoes 'Hello, Malware Analysis!'",PHP
-"SELECT threat_name, level FROM threats;\n\n-- SQL query to select 'threat_name' and 'level' from 'threats' table",SQL
-"var message = 'Hello, Security Operations Center!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, Security Operations Center!'",TypeScript
-"func sayHello() {\n    print(""Hello, Digital Forensics!"")\n}\n\n// Swift code to print 'Hello, Digital Forensics!'",Swift
-"<html>\n  <body>\n    <h1>Hello, CSS Pseudo-Classes!</h1>\n  </body>\n</html>\n\n<!-- HTML code for CSS pseudo-classes -->",HTML
-"puts 'Hello, Blockchain Security!'\n\n# This Ruby code prints 'Hello, Blockchain Security!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, Blockchain Security World!');\n}\n\n// Dart code to print 'Hello, Blockchain Security World!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, Blockchain Security Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, Blockchain Security Programming!'",C++
-"body {\n    text-transform: uppercase;\n}\n\n/* CSS code for uppercase text */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Software Security!')",Python
-"public class Encryption {\n    String algorithm;\n    public void encrypt() {\n        System.out.println('Encrypting...');\n    }\n}\n\n// Java class for encryption",Java
-"console.log(""Hello, Software Security!"");\n\n// JavaScript code to print 'Hello, Software Security!'",JavaScript
-"echo 'Hello, Secure Coding!';\n\n# This PHP code echoes 'Hello, Secure Coding!'",PHP
-"SELECT code_name, vulnerability FROM secure_code;\n\n-- SQL query to select 'code_name' and 'vulnerability' from 'secure_code' table",SQL
-"var message = 'Hello, Security Best Practices!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, Security Best Practices!'",TypeScript
-"func sayHello() {\n    print(""Hello, OWASP Top Ten!"")\n}\n\n// Swift code to print 'Hello, OWASP Top Ten!'",Swift
-"<html>\n  <body>\n    <h1>Hello, CSS Transitions!</h1>\n  </body>\n</html>\n\n<!-- HTML code for CSS transitions -->",HTML
-"puts 'Hello, Digital Certificates!'\n\n# This Ruby code prints 'Hello, Digital Certificates!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, Digital Certificates World!');\n}\n\n// Dart code to print 'Hello, Digital Certificates World!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, Digital Certificates Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, Digital Certificates Programming!'",C++
-"body {\n    letter-spacing: 2px;\n}\n\n/* CSS code for letter spacing */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Cloud Compliance!')",Python
-"public class Authentication {\n    String method;\n    public void authenticate() {\n        System.out.println('Authentication successful.');\n    }\n}\n\n// Java class for authentication",Java
-"console.log(""Hello, Cloud Compliance!"");\n\n// JavaScript code to print 'Hello, Cloud Compliance!'",JavaScript
-"echo 'Hello, Data Privacy!';\n\n# This PHP code echoes 'Hello, Data Privacy!'",PHP
-"SELECT privacy_policy, consent FROM user_data;\n\n-- SQL query to select 'privacy_policy' and 'consent' from 'user_data' table",SQL
-"var message = 'Hello, GDPR Compliance!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, GDPR Compliance!'",TypeScript
-"func sayHello() {\n    print(""Hello, HIPAA Compliance!"")\n}\n\n// Swift code to print 'Hello, HIPAA Compliance!'",Swift
-"<html>\n  <body>\n    <h1>Hello, CSS Variables!</h1>\n  </body>\n</html>\n\n<!-- HTML code for CSS variables -->",HTML
-"puts 'Hello, Cybersecurity Auditing!'\n\n# This Ruby code prints 'Hello, Auditing!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, Auditing World!');\n}\n\n// Dart code to print 'Hello, Auditing World!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, Auditing Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, Auditing Programming!'",C++
-"body {\n    text-align: justify;\n}\n\n/* CSS code for justified text */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Cybersecurity Governance!')",Python
-"public class Compliance {\n    String standards;\n    public void ensure() {\n        System.out.println('Ensuring compliance...');\n    }\n}\n\n// Java class for compliance",Java
-"console.log(""Hello, Cybersecurity Governance!"");\n\n// JavaScript code to print 'Hello, Cybersecurity Governance!'",JavaScript
-"echo 'Hello, Risk Assessment!';\n\n# This PHP code echoes 'Hello, Risk Assessment!'",PHP
-"SELECT risk_level, mitigation_plan FROM risks;\n\n-- SQL query to select 'risk_level' and 'mitigation_plan' from 'risks' table",SQL
-"var message = 'Hello, Security Policies!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, Security Policies!'",TypeScript
-"func sayHello() {\n    print(""Hello, Security Frameworks!"")\n}\n\n// Swift code to print 'Hello, Security Frameworks!'",Swift
-"<html>\n  <body>\n    <h1>Hello, CSS Pseudo-Elements!</h1>\n  </body>\n</html>\n\n<!-- HTML code for CSS pseudo-elements -->",HTML
-"puts 'Hello, Threat Intelligence!'\n\n# This Ruby code prints 'Hello, Threat Intelligence!'",Ruby
-"import 'dart:io';\nvoid main() {\n    print('Hello, Threat Intelligence World!');\n}\n\n// Dart code to print 'Hello, Threat Intelligence World!'",Dart
-"// This is a comment in C++\n#include <iostream>\nusing namespace std;\nint main() {\n    cout << 'Hello, Threat Intelligence Programming!' << endl;\n    return 0;\n}\n\n// C++ code to print 'Hello, Threat Intelligence Programming!'",C++
-"body {\n    text-transform: capitalize;\n}\n\n/* CSS code for capitalizing text */",CSS
-"import pandas as pd\n\n# This Python code imports pandas library\nprint('Hello, Security Awareness!')",Python
-"public class Incident {\n    String type;\n    public void report() {\n        System.out.println('Incident reported.');\n    }\n}\n\n// Java class for incident reporting",Java
-"console.log(""Hello, Security Awareness!"");\n\n// JavaScript code to print 'Hello, Security Awareness!'",JavaScript
-"echo 'Hello, Social Engineering Awareness!';\n\n# This PHP code echoes 'Hello, Social Engineering Awareness!'",PHP
-"SELECT social_engineering_attack, prevention FROM awareness;\n\n-- SQL query to select 'social_engineering_attack' and 'prevention' from 'awareness' table",SQL
-"var message = 'Hello, Security Training!';\nconsole.log(message);\n\n// TypeScript code to print 'Hello, Security Training!'",TypeScript
-"func sayHello() {\n    print(""Hello, Security Certifications!"")\n}\n\n// Swift code to print 'Hello, Security Certifications!'",Swift
-"<html>\n  <body>\n    <h1>Hello, CSS Transforms!</h1>\n  </body>\n</html>\n\n<!-- HTML code for CSS transforms -->",HTML
-"puts 'Hello, Cybersecurity Careers!'\n\n# This Ruby code prints 'Hello, Cybersecurity Careers!'",Ruby
+description,category,Title,date,main_category
+for i in range 10 n print i n n This Python code prints numbers from 0 to 9,Python,Python,2023-10-08,Code
+int main n printf Hello World n return 0 n n n,C,C,2023-10-08,Code
+puts Hello Ruby n n This Ruby code prints Hello Ruby,Ruby,Ruby,2023-10-08,Code
+public static void main String args n System out println Hello Java n n n,Java,Java,2023-10-08,Code
+console log Hello JavaScript n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello PHP n n,PHP,PHP,2023-10-08,Code
+SELECT FROM users n n SQL query to select all records from users table,SQL,SQL,2023-10-08,Code
+var message Hello TypeScript nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello Swift n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello HTML h1 n body n html n n HTML code to display Hello HTML,HTML,HTML,2023-10-08,Code
+puts Hello Kotlin n n This Kotlin code prints Hello Kotlin,Kotlin,Kotlin,2023-10-08,Code
+import dart io nvoid main n print Hello Dart n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n font family Arial sans serif n font size 16px n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Pandas,Python,Python,2023-10-08,Code
+public class Hello n public static void main String args n System out println Hello Java n n n n,Java,Java,2023-10-08,Code
+console log Hello Node js n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello World n n This PHP code echoes Hello World,PHP,PHP,2023-10-08,Code
+SELECT name age FROM users n n SQL query to select name and age from users table,SQL,SQL,2023-10-08,Code
+var message Hello React Native nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello SwiftUI n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello Web Development h1 n body n html n n HTML code for a web development greeting,HTML,HTML,2023-10-08,Code
+puts Hello Android n n This Kotlin code prints Hello Android,Kotlin,Kotlin,2023-10-08,Code
+import dart io nvoid main n print Hello Flutter n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n background color 3498db n color white n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Data Analysis,Python,Python,2023-10-08,Code
+public class Calculator n public static void main String args n int a 5 b 3 n System out println Sum a b n n n n,Java,Java,2023-10-08,Code
+console log Hello React n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello Database n n This PHP code echoes Hello Database,PHP,PHP,2023-10-08,Code
+SELECT product_name price FROM products n n SQL query to select product_name and price from products table,SQL,SQL,2023-10-08,Code
+var message Hello Vue js nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello Xcode n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello CSS Styling h1 n body n html n n HTML code for styling with CSS,HTML,HTML,2023-10-08,Code
+puts Hello Raspberry Pi n n This Ruby code prints Hello Raspberry Pi,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello IoT n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n margin 0 n padding 0 n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Data Science,Python,Python,2023-10-08,Code
+public class Rectangle n int length width n public int calculateArea n return length width n n n n,Java,Java,2023-10-08,Code
+console log Hello Express js n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello Laravel n n This PHP code echoes Hello Laravel,PHP,PHP,2023-10-08,Code
+SELECT city population FROM cities n n SQL query to select city and population from cities table,SQL,SQL,2023-10-08,Code
+var message Hello Angular nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello watchOS n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello Responsive Design h1 n body n html n n HTML code for responsive web design,HTML,HTML,2023-10-08,Code
+puts Hello Robotics n n This Ruby code prints Hello Robotics,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello Robotics World n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n border 1px solid ddd n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Machine Learning,Python,Python,2023-10-08,Code
+public class Circle n double radius n public double calculateArea n return Math PI radius radius n n n n,Java,Java,2023-10-08,Code
+console log Hello Redux n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello Symfony n n This PHP code echoes Hello Symfony,PHP,PHP,2023-10-08,Code
+SELECT book_title author FROM books n n SQL query to select book_title and author from books table,SQL,SQL,2023-10-08,Code
+var message Hello RxJS nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello ARKit n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello Flexbox Layout h1 n body n html n n HTML code for flexbox layout,HTML,HTML,2023-10-08,Code
+puts Hello Blockchain n n This Ruby code prints Hello Blockchain,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello Blockchain World n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n text align center n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Deep Learning,Python,Python,2023-10-08,Code
+public class Triangle n double base height n public double calculateArea n return 0 5 base height n n n n,Java,Java,2023-10-08,Code
+console log Hello Vue js 3 n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello WordPress n n This PHP code echoes Hello WordPress,PHP,PHP,2023-10-08,Code
+SELECT song_title artist FROM songs n n SQL query to select song_title and artist from songs table,SQL,SQL,2023-10-08,Code
+var message Hello GraphQL nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello SceneKit n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello CSS Grid Layout h1 n body n html n n HTML code for CSS grid layout,HTML,HTML,2023-10-08,Code
+puts Hello Game Development n n This Ruby code prints Hello Game Development,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello Game Dev World n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n background image url background jpg n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Natural Language Processing,Python,Python,2023-10-08,Code
+public class Square n double side n public double calculateArea n return side side n n n n,Java,Java,2023-10-08,Code
+console log Hello Electron n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello Joomla n n This PHP code echoes Hello Joomla,PHP,PHP,2023-10-08,Code
+SELECT product_name category FROM products n n SQL query to select product_name and category from products table,SQL,SQL,2023-10-08,Code
+var message Hello TensorFlow nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello Metal n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello Web Animation h1 n body n html n n HTML code for web animation,HTML,HTML,2023-10-08,Code
+puts Hello Cybersecurity n n This Ruby code prints Hello Cybersecurity,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello Cybersecurity World n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n color 333 n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Artificial Intelligence,Python,Python,2023-10-08,Code
+public class Employee n String name n int id n public void displayInfo n System out println Name name n n n n,Java,Java,2023-10-08,Code
+console log Hello Three js n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello Magento n n This PHP code echoes Hello Magento,PHP,PHP,2023-10-08,Code
+SELECT movie_title director FROM movies n n SQL query to select movie_title and director from movies table,SQL,SQL,2023-10-08,Code
+var message Hello Rust nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello OpenCV n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello CSS Transitions h1 n body n html n n HTML code for CSS transitions,HTML,HTML,2023-10-08,Code
+puts Hello Cloud Computing n n This Ruby code prints Hello Cloud Computing,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello Cloud Computing World n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n font weight bold n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Cloud Services,Python,Python,2023-10-08,Code
+public class Car n String make model n public void start n System out println The car is starting n n n n,Java,Java,2023-10-08,Code
+console log Hello Serverless n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello Docker n n This PHP code echoes Hello Docker,PHP,PHP,2023-10-08,Code
+SELECT city_name population FROM cities n n SQL query to select city_name and population from cities table,SQL,SQL,2023-10-08,Code
+var message Hello Heroku nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello CloudFormation n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello CSS Animations h1 n body n html n n HTML code for CSS animations,HTML,HTML,2023-10-08,Code
+puts Hello DevOps n n This Ruby code prints Hello DevOps,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello DevOps World n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n background color f2f2f2 n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Continuous Integration,Python,Python,2023-10-08,Code
+public class Dog n String name n public void bark n System out println Woof Woof n n n n,Java,Java,2023-10-08,Code
+console log Hello Jenkins n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello Travis CI n n This PHP code echoes Hello Travis CI,PHP,PHP,2023-10-08,Code
+SELECT product_name quantity FROM inventory n n SQL query to select product_name and quantity from inventory table,SQL,SQL,2023-10-08,Code
+var message Hello CircleCI nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello CircleCI n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello CSS Flexbox h1 n body n html n n HTML code for CSS flexbox layout,HTML,HTML,2023-10-08,Code
+puts Hello Virtual Reality n n This Ruby code prints Hello Virtual Reality,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello Virtual Reality World n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n line height 1 6 n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Augmented Reality,Python,Python,2023-10-08,Code
+public class Cat n String name n public void meow n System out println Meow n n n n,Java,Java,2023-10-08,Code
+console log Hello Augmented Reality n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello Augmented Reality n n This PHP code echoes Hello Augmented Reality,PHP,PHP,2023-10-08,Code
+SELECT game_title genre FROM games n n SQL query to select game_title and genre from games table,SQL,SQL,2023-10-08,Code
+var message Hello ARCore nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello ARKit 2 n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello CSS Transforms h1 n body n html n n HTML code for CSS transforms,HTML,HTML,2023-10-08,Code
+puts Hello Natural Language Processing n n This Ruby code prints Hello Natural Language Processing,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello Natural Language Processing World n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n text decoration underline n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Computer Vision,Python,Python,2023-10-08,Code
+public class Bird n String species n public void chirp n System out println Chirp Chirp n n n n,Java,Java,2023-10-08,Code
+console log Hello Computer Vision n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello Image Processing n n This PHP code echoes Hello Image Processing,PHP,PHP,2023-10-08,Code
+SELECT image_name width height FROM images n n SQL query to select image information from images table,SQL,SQL,2023-10-08,Code
+var message Hello OpenCV nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello Image Analysis n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello CSS Gradients h1 n body n html n n HTML code for CSS gradients,HTML,HTML,2023-10-08,Code
+puts Hello Big Data n n This Ruby code prints Hello Big Data,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello Big Data World n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n background image linear gradient to bottom ffcc00 ff6600 n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Internet of Things,Python,Python,2023-10-08,Code
+public class Sensor n String type n public void measure n System out println Measuring n n n n,Java,Java,2023-10-08,Code
+console log Hello IoT n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello IoT n n This PHP code echoes Hello IoT,PHP,PHP,2023-10-08,Code
+SELECT sensor_name value FROM sensor_data n n SQL query to select sensor_name and value from sensor_data table,SQL,SQL,2023-10-08,Code
+var message Hello MQTT nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello Home Automation n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello CSS Shadows h1 n body n html n n HTML code for CSS shadows,HTML,HTML,2023-10-08,Code
+puts Hello Robotics Process Automation n n This Ruby code prints Hello RPA,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello RPA World n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n box shadow 5px 5px 10px 888888 n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Cloud Security,Python,Python,2023-10-08,Code
+public class Firewall n String name n public void protect n System out println Firewall is protecting n n n n,Java,Java,2023-10-08,Code
+console log Hello Cloud Security n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello Cybersecurity n n This PHP code echoes Hello Cybersecurity,PHP,PHP,2023-10-08,Code
+SELECT vulnerability_name severity FROM vulnerabilities n n SQL query to select vulnerability_name and severity from vulnerabilities table,SQL,SQL,2023-10-08,Code
+var message Hello Security Analyst nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello Penetration Testing n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello CSS Variables h1 n body n html n n HTML code for CSS variables,HTML,HTML,2023-10-08,Code
+puts Hello Cryptography n n This Ruby code prints Hello Cryptography,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello Cryptography World n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n font family Roboto sans serif n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Cyber Threat Intelligence,Python,Python,2023-10-08,Code
+public class Virus n String name n public void spread n System out println Virus is spreading n n n n,Java,Java,2023-10-08,Code
+console log Hello Cyber Threat Intelligence n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello Malware Analysis n n This PHP code echoes Hello Malware Analysis,PHP,PHP,2023-10-08,Code
+SELECT threat_name level FROM threats n n SQL query to select threat_name and level from threats table,SQL,SQL,2023-10-08,Code
+var message Hello Security Operations Center nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello Digital Forensics n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello CSS Pseudo Classes h1 n body n html n n HTML code for CSS pseudo classes,HTML,HTML,2023-10-08,Code
+puts Hello Blockchain Security n n This Ruby code prints Hello Blockchain Security,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello Blockchain Security World n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n text transform uppercase n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Software Security,Python,Python,2023-10-08,Code
+public class Encryption n String algorithm n public void encrypt n System out println Encrypting n n n n,Java,Java,2023-10-08,Code
+console log Hello Software Security n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello Secure Coding n n This PHP code echoes Hello Secure Coding,PHP,PHP,2023-10-08,Code
+SELECT code_name vulnerability FROM secure_code n n SQL query to select code_name and vulnerability from secure_code table,SQL,SQL,2023-10-08,Code
+var message Hello Security Best Practices nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello OWASP Top Ten n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello CSS Transitions h1 n body n html n n HTML code for CSS transitions,HTML,HTML,2023-10-08,Code
+puts Hello Digital Certificates n n This Ruby code prints Hello Digital Certificates,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello Digital Certificates World n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n letter spacing 2px n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Cloud Compliance,Python,Python,2023-10-08,Code
+public class Authentication n String method n public void authenticate n System out println Authentication successful n n n n,Java,Java,2023-10-08,Code
+console log Hello Cloud Compliance n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello Data Privacy n n This PHP code echoes Hello Data Privacy,PHP,PHP,2023-10-08,Code
+SELECT privacy_policy consent FROM user_data n n SQL query to select privacy_policy and consent from user_data table,SQL,SQL,2023-10-08,Code
+var message Hello GDPR Compliance nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello HIPAA Compliance n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello CSS Variables h1 n body n html n n HTML code for CSS variables,HTML,HTML,2023-10-08,Code
+puts Hello Cybersecurity Auditing n n This Ruby code prints Hello Auditing,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello Auditing World n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n text align justify n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Cybersecurity Governance,Python,Python,2023-10-08,Code
+public class Compliance n String standards n public void ensure n System out println Ensuring compliance n n n n,Java,Java,2023-10-08,Code
+console log Hello Cybersecurity Governance n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello Risk Assessment n n This PHP code echoes Hello Risk Assessment,PHP,PHP,2023-10-08,Code
+SELECT risk_level mitigation_plan FROM risks n n SQL query to select risk_level and mitigation_plan from risks table,SQL,SQL,2023-10-08,Code
+var message Hello Security Policies nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello Security Frameworks n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello CSS Pseudo Elements h1 n body n html n n HTML code for CSS pseudo elements,HTML,HTML,2023-10-08,Code
+puts Hello Threat Intelligence n n This Ruby code prints Hello Threat Intelligence,Ruby,Ruby,2023-10-08,Code
+import dart io nvoid main n print Hello Threat Intelligence World n n n,Dart,Dart,2023-10-08,Code
+,C++,C++,2023-10-08,Code
+body n text transform capitalize n n n,CSS,CSS,2023-10-08,Code
+import pandas as pd n n This Python code imports pandas library nprint Hello Security Awareness,Python,Python,2023-10-08,Code
+public class Incident n String type n public void report n System out println Incident reported n n n n,Java,Java,2023-10-08,Code
+console log Hello Security Awareness n n,JavaScript,JavaScript,2023-10-08,Code
+echo Hello Social Engineering Awareness n n This PHP code echoes Hello Social Engineering Awareness,PHP,PHP,2023-10-08,Code
+SELECT social_engineering_attack prevention FROM awareness n n SQL query to select social_engineering_attack and prevention from awareness table,SQL,SQL,2023-10-08,Code
+var message Hello Security Training nconsole log message n n,TypeScript,TypeScript,2023-10-08,Code
+func sayHello n print Hello Security Certifications n n n,Swift,Swift,2023-10-08,Code
+html n body n h1 Hello CSS Transforms h1 n body n html n n HTML code for CSS transforms,HTML,HTML,2023-10-08,Code
+puts Hello Cybersecurity Careers n n This Ruby code prints Hello Cybersecurity Careers,Ruby,Ruby,2023-10-08,Code
