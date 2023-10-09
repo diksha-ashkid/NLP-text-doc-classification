@@ -1,0 +1,228 @@
+Title,main_category,category,date,description
+Python,Code,Python,2023-10-08,for i in range 10 n print i n n This Python code prints numbers from 0 to 9
+C,Code,C,2023-10-08,int main n printf Hello World n return 0 n n n
+Ruby,Code,Ruby,2023-10-08,puts Hello Ruby n n This Ruby code prints Hello Ruby
+Java,Code,Java,2023-10-08,public static void main String args n System out println Hello Java n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello JavaScript n n
+PHP,Code,PHP,2023-10-08,echo Hello PHP n n
+SQL,Code,SQL,2023-10-08,SELECT FROM users n n SQL query to select all records from users table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello TypeScript nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello Swift n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello HTML h1 n body n html n n HTML code to display Hello HTML
+Kotlin,Code,Kotlin,2023-10-08,puts Hello Kotlin n n This Kotlin code prints Hello Kotlin
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello Dart n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n font family Arial sans serif n font size 16px n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Pandas
+Java,Code,Java,2023-10-08,public class Hello n public static void main String args n System out println Hello Java n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Node js n n
+PHP,Code,PHP,2023-10-08,echo Hello World n n This PHP code echoes Hello World
+SQL,Code,SQL,2023-10-08,SELECT name age FROM users n n SQL query to select name and age from users table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello React Native nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello SwiftUI n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello Web Development h1 n body n html n n HTML code for a web development greeting
+Kotlin,Code,Kotlin,2023-10-08,puts Hello Android n n This Kotlin code prints Hello Android
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello Flutter n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n background color 3498db n color white n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Data Analysis
+Java,Code,Java,2023-10-08,public class Calculator n public static void main String args n int a 5 b 3 n System out println Sum a b n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello React n n
+PHP,Code,PHP,2023-10-08,echo Hello Database n n This PHP code echoes Hello Database
+SQL,Code,SQL,2023-10-08,SELECT product_name price FROM products n n SQL query to select product_name and price from products table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello Vue js nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello Xcode n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello CSS Styling h1 n body n html n n HTML code for styling with CSS
+Ruby,Code,Ruby,2023-10-08,puts Hello Raspberry Pi n n This Ruby code prints Hello Raspberry Pi
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello IoT n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n margin 0 n padding 0 n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Data Science
+Java,Code,Java,2023-10-08,public class Rectangle n int length width n public int calculateArea n return length width n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Express js n n
+PHP,Code,PHP,2023-10-08,echo Hello Laravel n n This PHP code echoes Hello Laravel
+SQL,Code,SQL,2023-10-08,SELECT city population FROM cities n n SQL query to select city and population from cities table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello Angular nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello watchOS n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello Responsive Design h1 n body n html n n HTML code for responsive web design
+Ruby,Code,Ruby,2023-10-08,puts Hello Robotics n n This Ruby code prints Hello Robotics
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello Robotics World n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n border 1px solid ddd n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Machine Learning
+Java,Code,Java,2023-10-08,public class Circle n double radius n public double calculateArea n return Math PI radius radius n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Redux n n
+PHP,Code,PHP,2023-10-08,echo Hello Symfony n n This PHP code echoes Hello Symfony
+SQL,Code,SQL,2023-10-08,SELECT book_title author FROM books n n SQL query to select book_title and author from books table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello RxJS nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello ARKit n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello Flexbox Layout h1 n body n html n n HTML code for flexbox layout
+Ruby,Code,Ruby,2023-10-08,puts Hello Blockchain n n This Ruby code prints Hello Blockchain
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello Blockchain World n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n text align center n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Deep Learning
+Java,Code,Java,2023-10-08,public class Triangle n double base height n public double calculateArea n return 0 5 base height n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Vue js 3 n n
+PHP,Code,PHP,2023-10-08,echo Hello WordPress n n This PHP code echoes Hello WordPress
+SQL,Code,SQL,2023-10-08,SELECT song_title artist FROM songs n n SQL query to select song_title and artist from songs table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello GraphQL nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello SceneKit n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello CSS Grid Layout h1 n body n html n n HTML code for CSS grid layout
+Ruby,Code,Ruby,2023-10-08,puts Hello Game Development n n This Ruby code prints Hello Game Development
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello Game Dev World n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n background image url background jpg n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Natural Language Processing
+Java,Code,Java,2023-10-08,public class Square n double side n public double calculateArea n return side side n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Electron n n
+PHP,Code,PHP,2023-10-08,echo Hello Joomla n n This PHP code echoes Hello Joomla
+SQL,Code,SQL,2023-10-08,SELECT product_name category FROM products n n SQL query to select product_name and category from products table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello TensorFlow nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello Metal n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello Web Animation h1 n body n html n n HTML code for web animation
+Ruby,Code,Ruby,2023-10-08,puts Hello Cybersecurity n n This Ruby code prints Hello Cybersecurity
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello Cybersecurity World n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n color 333 n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Artificial Intelligence
+Java,Code,Java,2023-10-08,public class Employee n String name n int id n public void displayInfo n System out println Name name n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Three js n n
+PHP,Code,PHP,2023-10-08,echo Hello Magento n n This PHP code echoes Hello Magento
+SQL,Code,SQL,2023-10-08,SELECT movie_title director FROM movies n n SQL query to select movie_title and director from movies table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello Rust nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello OpenCV n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello CSS Transitions h1 n body n html n n HTML code for CSS transitions
+Ruby,Code,Ruby,2023-10-08,puts Hello Cloud Computing n n This Ruby code prints Hello Cloud Computing
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello Cloud Computing World n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n font weight bold n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Cloud Services
+Java,Code,Java,2023-10-08,public class Car n String make model n public void start n System out println The car is starting n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Serverless n n
+PHP,Code,PHP,2023-10-08,echo Hello Docker n n This PHP code echoes Hello Docker
+SQL,Code,SQL,2023-10-08,SELECT city_name population FROM cities n n SQL query to select city_name and population from cities table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello Heroku nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello CloudFormation n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello CSS Animations h1 n body n html n n HTML code for CSS animations
+Ruby,Code,Ruby,2023-10-08,puts Hello DevOps n n This Ruby code prints Hello DevOps
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello DevOps World n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n background color f2f2f2 n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Continuous Integration
+Java,Code,Java,2023-10-08,public class Dog n String name n public void bark n System out println Woof Woof n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Jenkins n n
+PHP,Code,PHP,2023-10-08,echo Hello Travis CI n n This PHP code echoes Hello Travis CI
+SQL,Code,SQL,2023-10-08,SELECT product_name quantity FROM inventory n n SQL query to select product_name and quantity from inventory table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello CircleCI nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello CircleCI n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello CSS Flexbox h1 n body n html n n HTML code for CSS flexbox layout
+Ruby,Code,Ruby,2023-10-08,puts Hello Virtual Reality n n This Ruby code prints Hello Virtual Reality
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello Virtual Reality World n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n line height 1 6 n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Augmented Reality
+Java,Code,Java,2023-10-08,public class Cat n String name n public void meow n System out println Meow n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Augmented Reality n n
+PHP,Code,PHP,2023-10-08,echo Hello Augmented Reality n n This PHP code echoes Hello Augmented Reality
+SQL,Code,SQL,2023-10-08,SELECT game_title genre FROM games n n SQL query to select game_title and genre from games table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello ARCore nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello ARKit 2 n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello CSS Transforms h1 n body n html n n HTML code for CSS transforms
+Ruby,Code,Ruby,2023-10-08,puts Hello Natural Language Processing n n This Ruby code prints Hello Natural Language Processing
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello Natural Language Processing World n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n text decoration underline n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Computer Vision
+Java,Code,Java,2023-10-08,public class Bird n String species n public void chirp n System out println Chirp Chirp n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Computer Vision n n
+PHP,Code,PHP,2023-10-08,echo Hello Image Processing n n This PHP code echoes Hello Image Processing
+SQL,Code,SQL,2023-10-08,SELECT image_name width height FROM images n n SQL query to select image information from images table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello OpenCV nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello Image Analysis n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello CSS Gradients h1 n body n html n n HTML code for CSS gradients
+Ruby,Code,Ruby,2023-10-08,puts Hello Big Data n n This Ruby code prints Hello Big Data
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello Big Data World n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n background image linear gradient to bottom ffcc00 ff6600 n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Internet of Things
+Java,Code,Java,2023-10-08,public class Sensor n String type n public void measure n System out println Measuring n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello IoT n n
+PHP,Code,PHP,2023-10-08,echo Hello IoT n n This PHP code echoes Hello IoT
+SQL,Code,SQL,2023-10-08,SELECT sensor_name value FROM sensor_data n n SQL query to select sensor_name and value from sensor_data table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello MQTT nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello Home Automation n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello CSS Shadows h1 n body n html n n HTML code for CSS shadows
+Ruby,Code,Ruby,2023-10-08,puts Hello Robotics Process Automation n n This Ruby code prints Hello RPA
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello RPA World n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n box shadow 5px 5px 10px 888888 n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Cloud Security
+Java,Code,Java,2023-10-08,public class Firewall n String name n public void protect n System out println Firewall is protecting n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Cloud Security n n
+PHP,Code,PHP,2023-10-08,echo Hello Cybersecurity n n This PHP code echoes Hello Cybersecurity
+SQL,Code,SQL,2023-10-08,SELECT vulnerability_name severity FROM vulnerabilities n n SQL query to select vulnerability_name and severity from vulnerabilities table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello Security Analyst nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello Penetration Testing n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello CSS Variables h1 n body n html n n HTML code for CSS variables
+Ruby,Code,Ruby,2023-10-08,puts Hello Cryptography n n This Ruby code prints Hello Cryptography
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello Cryptography World n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n font family Roboto sans serif n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Cyber Threat Intelligence
+Java,Code,Java,2023-10-08,public class Virus n String name n public void spread n System out println Virus is spreading n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Cyber Threat Intelligence n n
+PHP,Code,PHP,2023-10-08,echo Hello Malware Analysis n n This PHP code echoes Hello Malware Analysis
+SQL,Code,SQL,2023-10-08,SELECT threat_name level FROM threats n n SQL query to select threat_name and level from threats table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello Security Operations Center nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello Digital Forensics n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello CSS Pseudo Classes h1 n body n html n n HTML code for CSS pseudo classes
+Ruby,Code,Ruby,2023-10-08,puts Hello Blockchain Security n n This Ruby code prints Hello Blockchain Security
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello Blockchain Security World n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n text transform uppercase n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Software Security
+Java,Code,Java,2023-10-08,public class Encryption n String algorithm n public void encrypt n System out println Encrypting n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Software Security n n
+PHP,Code,PHP,2023-10-08,echo Hello Secure Coding n n This PHP code echoes Hello Secure Coding
+SQL,Code,SQL,2023-10-08,SELECT code_name vulnerability FROM secure_code n n SQL query to select code_name and vulnerability from secure_code table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello Security Best Practices nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello OWASP Top Ten n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello CSS Transitions h1 n body n html n n HTML code for CSS transitions
+Ruby,Code,Ruby,2023-10-08,puts Hello Digital Certificates n n This Ruby code prints Hello Digital Certificates
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello Digital Certificates World n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n letter spacing 2px n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Cloud Compliance
+Java,Code,Java,2023-10-08,public class Authentication n String method n public void authenticate n System out println Authentication successful n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Cloud Compliance n n
+PHP,Code,PHP,2023-10-08,echo Hello Data Privacy n n This PHP code echoes Hello Data Privacy
+SQL,Code,SQL,2023-10-08,SELECT privacy_policy consent FROM user_data n n SQL query to select privacy_policy and consent from user_data table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello GDPR Compliance nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello HIPAA Compliance n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello CSS Variables h1 n body n html n n HTML code for CSS variables
+Ruby,Code,Ruby,2023-10-08,puts Hello Cybersecurity Auditing n n This Ruby code prints Hello Auditing
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello Auditing World n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n text align justify n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Cybersecurity Governance
+Java,Code,Java,2023-10-08,public class Compliance n String standards n public void ensure n System out println Ensuring compliance n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Cybersecurity Governance n n
+PHP,Code,PHP,2023-10-08,echo Hello Risk Assessment n n This PHP code echoes Hello Risk Assessment
+SQL,Code,SQL,2023-10-08,SELECT risk_level mitigation_plan FROM risks n n SQL query to select risk_level and mitigation_plan from risks table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello Security Policies nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello Security Frameworks n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello CSS Pseudo Elements h1 n body n html n n HTML code for CSS pseudo elements
+Ruby,Code,Ruby,2023-10-08,puts Hello Threat Intelligence n n This Ruby code prints Hello Threat Intelligence
+Dart,Code,Dart,2023-10-08,import dart io nvoid main n print Hello Threat Intelligence World n n n
+C++,Code,C++,2023-10-08,
+CSS,Code,CSS,2023-10-08,body n text transform capitalize n n n
+Python,Code,Python,2023-10-08,import pandas as pd n n This Python code imports pandas library nprint Hello Security Awareness
+Java,Code,Java,2023-10-08,public class Incident n String type n public void report n System out println Incident reported n n n n
+JavaScript,Code,JavaScript,2023-10-08,console log Hello Security Awareness n n
+PHP,Code,PHP,2023-10-08,echo Hello Social Engineering Awareness n n This PHP code echoes Hello Social Engineering Awareness
+SQL,Code,SQL,2023-10-08,SELECT social_engineering_attack prevention FROM awareness n n SQL query to select social_engineering_attack and prevention from awareness table
+TypeScript,Code,TypeScript,2023-10-08,var message Hello Security Training nconsole log message n n
+Swift,Code,Swift,2023-10-08,func sayHello n print Hello Security Certifications n n n
+HTML,Code,HTML,2023-10-08,html n body n h1 Hello CSS Transforms h1 n body n html n n HTML code for CSS transforms
+Ruby,Code,Ruby,2023-10-08,puts Hello Cybersecurity Careers n n This Ruby code prints Hello Cybersecurity Careers
