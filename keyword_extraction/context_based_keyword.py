@@ -33,7 +33,7 @@ def extract_text_from_document(file_path):
     return text
 
 # Usage example:
-file_path = r"D:\Personal\diksha\7 SEM\Final Year Project\Marketing Automation (1).pdf"
+file_path = r"C:\Users\DELL\Downloads\Engineer _ Senior Engineer.pdf"
 document_text = extract_text_from_document(file_path)
 kw_extractor = yake.KeywordExtractor()
 

@@ -52,7 +52,7 @@ def find_keywords(text, top_n=10):
 # Main function
 def main():
     # Replace 'your_document.docx', 'your_document.pdf', or 'your_document.txt' with the path to your document file.
-    file_path = r'D:\Personal\diksha\7 SEM\Final Year Project\barbie.txt'
+    file_path = r"C:\Users\DELL\Downloads\Engineer _ Senior Engineer.pdf"
 
     # Extract text from the document
     if file_path.endswith('.docx'):
