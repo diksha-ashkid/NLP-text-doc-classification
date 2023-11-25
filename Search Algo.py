@@ -1,12 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
 
 import pandas as pd
 from collections import defaultdict
-from operator import itemgetter
 
 class DocumentSearch:
     def __init__(self, csv_path):
@@ -23,8 +17,8 @@ class DocumentSearch:
         keyword_counts = defaultdict(int)
         for keyword in keywords:
             for result in results:
-                keyword_counts[keyword] += result['Keyword'].lower().count(keyword.lower())
-        sorted_results = sorted(results, key=lambda x: sum(keyword_counts[key] for key in keywords), reverse=True)
+                keyword_counts[keyword] += result['Keyword'].lower().count(keyword.lower())#change 'Keyword' to the main text?
+        sorted_results = sorted(results, key=lambda x: sum(keyword_counts[key] for key in keywords), reverse=True)##research this
         return sorted_results
 
     def retrieve_documents(self, keywords):
