@@ -27,7 +27,7 @@ class DocumentSearch:
         return ranked_results
 
 
-csv_path = 'C:/Users/HP/Downloads/combined_final_dataset.csv'
+csv_path = "D:/Backup/Desktop/programs/NLP-text-doc-classification/Dataset/combined_keyword_final_dataset.csv"
 document_search = DocumentSearch(csv_path)
 
 user_input_keywords = input("Enter keywords (comma-separated): ").split(',')
