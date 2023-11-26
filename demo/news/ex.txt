@@ -1,0 +1,6 @@
+Deliverables for final review:
+1) Version Control - aakash
+2) file opening, extraction, directory operations - nishtha
+3) expand classes to more - diksha
+4) integrate palm api for classification - diksha
+5) searching algorithm - ananya
