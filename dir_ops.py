@@ -9,8 +9,12 @@ logging.basicConfig(filename='classification.log', level=logging.INFO, format='%
 def classify_document(file_path, class_label):
     # Define your class labels and corresponding folder paths
     class_folders = {
-        'class1': '/path/to/class1/folder',
-        'class2': '/path/to/class2/folder',
+        'News': '/path/to/class1/folder',
+        'Research paper': '/path/to/class2/folder',
+        'Code': '/path/to/class3/folder',
+        'Legal': '/path/to/class4/folder',
+        'Financial Documents': '/path/to/class5/folder',
+        'Medical': '/path/to/class6/folder',
         # Add more classes and folder paths as needed
     }
     
