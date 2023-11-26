@@ -1,28 +1,28 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 
-class VectorSpaceModel:
+class KeywordBasedSearch:
     def __init__(self, csv_path):
         self.df = pd.read_csv(csv_path)
         self.vectorizer = TfidfVectorizer(stop_words='english')
         self.document_vectors = self.vectorizer.fit_transform(self.df['text_column'])  # Replace 'text_column' with the column containing document text
 
-    def retrieve_documents(self, query):
-        query_vector = self.vectorizer.transform([query])
-        cosine_similarities = cosine_similarity(query_vector, self.document_vectors).flatten()
-        document_scores = list(enumerate(cosine_similarities))
-        ranked_documents = sorted(document_scores, key=lambda x: x[1], reverse=True)
+    def search_documents(self, keywords):
+        keyword_vector = self.vectorizer.transform([' '.join(keywords)])
+        keyword_scores = keyword_vector.toarray()[0]
+
+        document_scores = self.document_vectors.dot(keyword_scores)
+        ranked_documents = sorted(enumerate(document_scores), key=lambda x: x[1], reverse=True)
 
         return ranked_documents
 
 # Example usage
 csv_path = 'your_dataset.csv'  # Replace with your dataset path
-vsm = VectorSpaceModel(csv_path)
+search_engine = KeywordBasedSearch(csv_path)
 
-user_query = input("Enter your query: ")
-retrieved_docs = vsm.retrieve_documents(user_query)
+user_keywords = input("Enter keywords (comma-separated): ").split(',')
+retrieved_docs = search_engine.search_documents(user_keywords)
 
 print("Top 5 Retrieved Documents:")
 for idx, score in retrieved_docs[:5]:  # Display top 5 retrieved documents
-    print(f"Document ID: {idx}, Similarity Score: {score}, Text: {vsm.df.iloc[idx]['text_column']}")
+    print(f"Document ID: {idx}, Similarity Score: {score}, Text: {search_engine.df.iloc[idx]['text_column']}")
