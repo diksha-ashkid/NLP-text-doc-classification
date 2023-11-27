@@ -1,3 +1,5 @@
 2023-11-26 20:33:23,560 - ERROR - Error moving file D:/Backup/Desktop/programs/NLP-text-doc-classification/demo/ex.txt: Destination path 'D:/Backup/Desktop/programs/NLP-text-doc-classification/demo/news\ex.txt' already exists
 2023-11-26 20:33:26,619 - INFO - NumExpr defaulting to 8 threads.
 2023-11-27 11:17:15,009 - ERROR - Error moving file D:/Backup/Desktop/programs/NLP-text-doc-classification/demo/ex.txt: [Errno 2] No such file or directory: 'D:/Backup/Desktop/programs/NLP-text-doc-classification/demo/ex.txt'
+2023-11-27 11:21:36,614 - WARNING - Class label Financial documents not found.
+2023-11-27 11:22:11,518 - ERROR - Error moving file G:\Diksha\7 sem\finalyrpro\NLP-text-doc-classification\demo\news doc.txt: [Errno 2] No such file or directory: 'D:/Backup/Desktop/programs/NLP-text-doc-classification/demo/financial'
