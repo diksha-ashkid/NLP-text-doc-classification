@@ -1,0 +1,16 @@
+def factorial(n):
+    """Calculate the factorial of a number using recursion."""
+    if n == 0 or n == 1:
+        return 1
+    else:
+        return n * factorial(n - 1)
+
+# Get user input for the number
+num = int(input("Enter a non-negative integer: "))
+
+# Check if the input is non-negative
+if num < 0:
+    print("Please enter a non-negative integer.")
+else:
+    result = factorial(num)
+    print(f"The factorial of {num} is {result}")

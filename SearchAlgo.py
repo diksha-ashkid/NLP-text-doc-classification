@@ -3,7 +3,7 @@ import pandas as pd
 from collections import defaultdict
 
 class DocumentSearch:
-    def __init__(self, csv_path):
+    def __init__(self, csv_path = "D:/Backup/Desktop/programs/NLP-text-doc-classification/Dataset/combined_keyword_final_dataset.csv"):
         self.df = pd.read_csv(csv_path)
 
     def search_keywords(self, keywords):
@@ -27,15 +27,15 @@ class DocumentSearch:
         return ranked_results
 
 
-csv_path = "D:/Backup/Desktop/programs/NLP-text-doc-classification/Dataset/combined_keyword_final_dataset.csv"
-document_search = DocumentSearch(csv_path)
 
-user_input_keywords = input("Enter keywords (comma-separated): ").split(',')
-retrieved_documents = document_search.retrieve_documents(user_input_keywords)
+#document_search = DocumentSearch(csv_path)
 
-print("Retrieved Documents:")
-for i, doc in enumerate(retrieved_documents, start=1):
-    print(f"{i}. Title: {doc['Title']}, Category: {doc['main_category']}, Date: {doc['date']}, Description: {doc['description']}")
+#user_input_keywords = input("Enter keywords (comma-separated): ").split(',')
+#retrieved_documents = document_search.retrieve_documents(user_input_keywords)
+#print("Retrieved Documents:")
+#for i, doc in enumerate(retrieved_documents, start=1,):
+  #  print(f"{i}. Title: {doc['Title']}, Category: {doc['main_category']}")# Date: {doc['date']}, Description: x")
+
 
 
 # In[ ]:
