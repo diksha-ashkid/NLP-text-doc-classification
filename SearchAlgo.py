@@ -28,14 +28,14 @@ class DocumentSearch:
 
 
 csv_path = "D:/Backup/Desktop/programs/NLP-text-doc-classification/Dataset/combined_keyword_final_dataset.csv"
-document_search = DocumentSearch(csv_path)
+#document_search = DocumentSearch(csv_path)
 
-user_input_keywords = input("Enter keywords (comma-separated): ").split(',')
-retrieved_documents = document_search.retrieve_documents(user_input_keywords)
+#user_input_keywords = input("Enter keywords (comma-separated): ").split(',')
+#retrieved_documents = document_search.retrieve_documents(user_input_keywords)
+#print("Retrieved Documents:")
+#for i, doc in enumerate(retrieved_documents, start=1,):
+  #  print(f"{i}. Title: {doc['Title']}, Category: {doc['main_category']}")# Date: {doc['date']}, Description: x")
 
-print("Retrieved Documents:")
-for i, doc in enumerate(retrieved_documents, start=1):
-    print(f"{i}. Title: {doc['Title']}, Category: {doc['main_category']}, Date: {doc['date']}, Description: {doc['description']}")
 
 
 # In[ ]:

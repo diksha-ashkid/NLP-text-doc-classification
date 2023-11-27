@@ -1,0 +1,2 @@
+2023-11-26 20:33:23,560 - ERROR - Error moving file D:/Backup/Desktop/programs/NLP-text-doc-classification/demo/ex.txt: Destination path 'D:/Backup/Desktop/programs/NLP-text-doc-classification/demo/news\ex.txt' already exists
+2023-11-26 20:33:26,619 - INFO - NumExpr defaulting to 8 threads.
